@@ -1,6 +1,6 @@
 import { createContext, useState, useEffect } from 'react';
 import './App.css';
-import Button from './components/button';
+import Button from './components/Button.jsx';
 
 const expressionContext = createContext();
 
